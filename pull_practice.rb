@@ -10,6 +10,7 @@
 def duck_noise
   puts "Aloha"
   puts "Oye"
+  puts "TEST"
 end
 
 # Task 2: Same as task one, but switch roles
