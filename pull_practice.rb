@@ -9,6 +9,7 @@
 # partner should run git pull to retrieve the changes.
 def duck_noise
   puts "Aloha"
+  puts "Oye"
 end
 
 # Task 2: Same as task one, but switch roles
